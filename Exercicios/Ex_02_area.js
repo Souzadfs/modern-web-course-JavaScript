@@ -1,5 +1,5 @@
 let raio = 12
-let Pi = 3.14
+const PI = 3.14
 
 let CalculoCircunferencia = Pi * raio * raio
 
