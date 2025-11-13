@@ -13,6 +13,6 @@ console.log (nome);
 console.log (preco);
 console.log (quantidade);
 console.log (imposto);
-console.log (precoFinal)
+console.log (precoFinal);
 
 }
