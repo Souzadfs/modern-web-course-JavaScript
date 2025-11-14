@@ -8,6 +8,6 @@ var a = 3
 let b = 10
 
 var a = 20
- b = 23
+b = 23
 
 console.log(a, b)
